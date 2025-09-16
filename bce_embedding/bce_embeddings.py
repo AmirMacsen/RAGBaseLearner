@@ -4,7 +4,6 @@
 
 from BCEmbedding.BCEmbedding import EmbeddingModel
 
-
 model = EmbeddingModel(model_name_or_path="D:\\ai\\modelscope_models\\maidalun\\bce-embedding-base_v1")
 
 
