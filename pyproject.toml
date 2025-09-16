@@ -3,4 +3,8 @@ name = "ragbaselearner"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "modelscope>=1.30.0",
+    "scikit-learn>=1.7.2",
+    "transformers>=4.56.1",
+]
